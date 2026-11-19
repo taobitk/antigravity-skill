@@ -1,0 +1,12 @@
+{
+  "name": "ui-ux-studio",
+  "displayName": "UI/UX Design Studio",
+  "version": "1.0.0",
+  "description": "End-to-end product discovery and UI/UX toolkit: customer UX interviews, strategic design tokens and accessibility audits, plus searchable design systems and palettes.",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Interview me to clarify UX requirements before building a new feature",
+    "Generate a complete design system, color palette, and typography pairing",
+    "Audit my UI layout for WCAG accessibility and usability improvements"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "sveltekit-dev",
+  "displayName": "SvelteKit Dev Kit",
+  "version": "1.0.0",
+  "description": "SvelteKit full-stack development bundle: project scaffolding (Tailwind, Cloudflare, Playwright, WASM), 3-layer clean architecture, and file naming standards.",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Scaffold a new SvelteKit project with Tailwind CSS and Cloudflare adapter",
+    "Audit my SvelteKit src directory for clean architecture and naming standards",
+    "Refactor a large +page.svelte route into clean components and composables"
+  ]
+}

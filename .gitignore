@@ -1,0 +1,25 @@
+# Ignore everything in root by default
+/*
+
+# Keep .gitignore itself
+!.gitignore
+
+# Allowlist selected plugins only
+!plugins/
+plugins/*
+!plugins/sveltekit-dev/
+!plugins/ui-ux-studio/
+
+# Allowlist selected skills only
+!skills/
+skills/*
+!skills/anti-monolith-guard/
+!skills/learn-script/
+!skills/sk-smart-web-reader/
+!skills/sk-workspace-agents-init/
+
+# Ignore Python bytecode and OS junk inside allowlisted folders
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" fill="none">
+  <!-- Outer badge with ~10% margin (14..114) -->
+  <rect x="16" y="16" width="96" height="96" rx="22" fill="#FF3E00" fill-opacity="0.16" stroke="#FF3E00" stroke-width="5"/>
+  <!-- Stylized Svelte-inspired S ribbon / code brackets -->
+  <path d="M48 42L30 64L48 86" stroke="#FF3E00" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M80 42L98 64L80 86" stroke="#FF3E00" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- High-contrast central S-bolt -->
+  <path d="M69 38L54 62H68L59 90L76 64H62L69 38Z" fill="#FF5722" stroke="#FFFFFF" stroke-width="2.5" stroke-linejoin="round"/>
+</svg>
